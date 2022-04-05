@@ -5,3 +5,5 @@ Input the joint data and subject's information into the GUI to analyze the low b
 2) depth camera (Kinect)
 3) Artificial-Neural-Network based depth camera (ANN-Kinect)
 
+![image](https://user-images.githubusercontent.com/100478335/161751572-dbd9f8a8-9dab-4853-a3cf-48057913639b.png)
+
